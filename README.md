@@ -1,4 +1,4 @@
-<h1>基于人工智能的闽江流域水情预报</h1>
+<h1><a href="https://www.dcic-china.com/competitions/10173" target="_blank">基于人工智能的闽江流域水情预报</a></h1>
 <h2><a id="_0"></a>赛道背景</h2>
 <p><img src="https://competition-oss.dcic-china.com/dcic-production/admin/uploads/admin/editor/2025-02-08/%E6%95%B0%E6%8D%AE%E8%A6%81%E7%B4%A0%E8%83%8C%E6%99%AF-505381.jpg" alt="数据要素背景.jpg"></p>
 <h2><a id="_3"></a>赛题介绍</h2>
