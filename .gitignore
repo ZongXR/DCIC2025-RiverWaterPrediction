@@ -173,3 +173,5 @@ notebooks/.ipynb_checkpoints
 
 data/A榜/train/A-雨量水位（2014-2019）.csv
 data/A榜/test/A-雨量水位（2020-2021）.csv
+data/外部数据/open-meteo-rain.csv
+data/外部数据/open-meteo-temperature.csv
